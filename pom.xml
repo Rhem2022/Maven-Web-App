@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://13.57.206.230:8081/repository/twitter-releases/</url>
+	      <url>http:http://18.144.9.151:8081/repository/twitter-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.57.206.230:8081/repository/twitter-snapshot/</url>
+	      <url>http://18.144.9.151:8081/repository/twitter-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
